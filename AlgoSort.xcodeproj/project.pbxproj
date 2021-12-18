@@ -15,6 +15,8 @@
 		5311E6D6262589EF00D86E10 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5311E6D4262589EF00D86E10 /* LaunchScreen.storyboard */; };
 		5311E6E1262589EF00D86E10 /* AlgoSortTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5311E6E0262589EF00D86E10 /* AlgoSortTests.swift */; };
 		5311E6EC262589F000D86E10 /* AlgoSortUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5311E6EB262589F000D86E10 /* AlgoSortUITests.swift */; };
+		53AF3BF9262E911D007A47A6 /* DrawSetOneRectView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53AF3BF8262E911D007A47A6 /* DrawSetOneRectView.swift */; };
+		53AF3BFE262E912D007A47A6 /* DrawSetTwoRectView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53AF3BFD262E912D007A47A6 /* DrawSetTwoRectView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +51,8 @@
 		5311E6E7262589F000D86E10 /* AlgoSortUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AlgoSortUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5311E6EB262589F000D86E10 /* AlgoSortUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlgoSortUITests.swift; sourceTree = "<group>"; };
 		5311E6ED262589F000D86E10 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		53AF3BF8262E911D007A47A6 /* DrawSetOneRectView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DrawSetOneRectView.swift; sourceTree = "<group>"; };
+		53AF3BFD262E912D007A47A6 /* DrawSetTwoRectView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DrawSetTwoRectView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +107,8 @@
 				5311E6CB262589EF00D86E10 /* SceneDelegate.swift */,
 				5311E6CD262589EF00D86E10 /* ViewController.swift */,
 				5311E6CF262589EF00D86E10 /* Main.storyboard */,
+				53AF3BF8262E911D007A47A6 /* DrawSetOneRectView.swift */,
+				53AF3BFD262E912D007A47A6 /* DrawSetTwoRectView.swift */,
 				5311E6D2262589EF00D86E10 /* Assets.xcassets */,
 				5311E6D4262589EF00D86E10 /* LaunchScreen.storyboard */,
 				5311E6D7262589EF00D86E10 /* Info.plist */,
@@ -258,6 +264,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				53AF3BF9262E911D007A47A6 /* DrawSetOneRectView.swift in Sources */,
+				53AF3BFE262E912D007A47A6 /* DrawSetTwoRectView.swift in Sources */,
 				5311E6CE262589EF00D86E10 /* ViewController.swift in Sources */,
 				5311E6CA262589EF00D86E10 /* AppDelegate.swift in Sources */,
 				5311E6CC262589EF00D86E10 /* SceneDelegate.swift in Sources */,
