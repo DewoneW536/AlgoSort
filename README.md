@@ -11,5 +11,3 @@ randomly generated (shuffled) each time.
 3. Animated the progress of the sorting algorithms by displaying the state of the array being sorted in a fashion similar to what is in the sample UI. We also added small delays in the algorithms so that the progress is observable at a comfortable pace.
 4. Used a dispatch queue to execute the sorting algorithm on a thread other than the main thread.
 5. Created custom view class to display and animate the state of the array being sorted.
-## Display
- 
